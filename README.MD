@@ -28,4 +28,4 @@ Tests
 Contributing
 ===
 
-See [contributing](https://github.com/deploy-django-ci/ddci-docs/blob/master/README.MD) document in ddci-docs repo.
+See [contributing](https://github.com/deploy-django-ci/ddci-docs/blob/master/contribute.MD) document in ddci-docs repo.
